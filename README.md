@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm [Alexander]
+# 👋 Hey there! I'm Alexander
 
 ## Glad to see you here &nbsp;
 
