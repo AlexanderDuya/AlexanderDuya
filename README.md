@@ -1,6 +1,4 @@
-# 👋 Hey there! I'm Alexander
-
-## Glad to see you here &nbsp;
+# 👋 Hey I'm Alexander!
 
 🔗 Grab a link! 
 
