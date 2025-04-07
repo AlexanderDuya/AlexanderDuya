@@ -1,33 +1,54 @@
-# 👋 Hey I'm Alexander!
+# 👋 Hey, I'm Alexander Duya!
 
-🔗 Grab a link! 
+🚀 Full-Stack Developer | Currently Learning React Native
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexanderDuya)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexanderduya/)
+🔗 Connect with me:
 
-## 💻 Things I code with
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexanderDuya)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexanderduya/)
 
-### 👨‍💻 Languages
+## 🛠 Tech Stack
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-plastic&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-plastic&logo=javascript&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-plastic&logo=css3&logoColor=white)
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+### 🚀 Frameworks & Libraries
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) *Currently Learning!*
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-### 🧰 Frameworks & Libraries
-![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+### 🗄️ Databases & Backend Services
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+![Convex](https://img.shields.io/badge/Convex-5C4EE5?style=for-the-badge&logo=convex&logoColor=white)
 
-<h2>Certifications</h2>
+## 📜 Certifications
 
-[JavaScript](https://www.codecademy.com/profiles/AlexanderDuya/certificates/705dcb15de0da4dd9d9fc4f3274b430e)<br/>
-[Intermediate JavaScript](https://www.codecademy.com/profiles/AlexanderDuya/certificates/512386fdc7f6c934f98b01e6afa8285a)<br/>
-[CSS](https://www.codecademy.com/profiles/AlexanderDuya/certificates/9a5bb1fc45b4281af1fffec93b0aaf05)<br/>
-[CSS Color Design](https://www.codecademy.com/profiles/AlexanderDuya/certificates/0a6884fad1dbf4afe5df084d2ec1e7c3)<br/>
-[CSS Navigation Design](https://www.codecademy.com/profiles/AlexanderDuya/certificates/91cf4a1767724a02a20b1eba7eca74ea)<br/>
-[CSS Responsive Design](https://www.codecademy.com/profiles/AlexanderDuya/certificates/3a62023b0054dc793edc0adecd715fd7)<br/>
-[Python 3](https://www.codecademy.com/profiles/AlexanderDuya/certificates/6c152bd262967f8c941c9707ed636bda)<br/>
-[HTML](https://www.codecademy.com/profiles/AlexanderDuya/certificates/9eb0741e5ebef1f9f58a53bfac67d3a7)<br/>
-[React](https://www.codecademy.com/profiles/AlexanderDuya/certificates/1bf3e70ae92b43c2a3add66cbfaec661)<br/>
-[SQL](https://www.codecademy.com/profiles/AlexanderDuya/certificates/042a4e5884e3eb6ea1f2a12be6abb851)<br/>
+| Certification | Badge |
+|--------------|-------|
+| **JavaScript** | [![Certification](https://img.shields.io/badge/JavaScript-Certified-yellow?style=flat-square)](https://www.codecademy.com/profiles/AlexanderDuya/certificates/705dcb15de0da4dd9d9fc4f3274b430e) |
+| **Intermediate JavaScript** | [![Certification](https://img.shields.io/badge/Intermediate_JS-Certified-yellow?style=flat-square)](https://www.codecademy.com/profiles/AlexanderDuya/certificates/512386fdc7f6c934f98b01e6afa8285a) |
+| **React** | [![Certification](https://img.shields.io/badge/React-Certified-blue?style=flat-square)](https://www.codecademy.com/profiles/AlexanderDuya/certificates/1bf3e70ae92b43c2a3add66cbfaec661) |
+| **Python 3** | [![Certification](https://img.shields.io/badge/Python_3-Certified-blue?style=flat-square)](https://www.codecademy.com/profiles/AlexanderDuya/certificates/6c152bd262967f8c941c9707ed636bda) |
+| **SQL** | [![Certification](https://img.shields.io/badge/SQL-Certified-orange?style=flat-square)](https://www.codecademy.com/profiles/AlexanderDuya/certificates/042a4e5884e3eb6ea1f2a12be6abb851) |
+
+## 🔥 Featured Projects
+
+### 🎥 [Frame.io Video Downloader](https://github.com/AlexanderDuya/frameio-video-downloader)
+Node.js script using Puppeteer to automatically download .mp4 videos from Frame.io links
+
+### 📸 [Full-Page Screenshot Capture](https://github.com/AlexanderDuya/full-page-screenshot)
+Puppeteer tool that captures full-page screenshots, including scroll-triggered animations
+
+## 🌱 Currently Learning
+- Advanced React Native development
+- Convex backend platform
+- Clerk authentication
+
+📫 **How to reach me:** [Email](alexduyaconnect@gmail.com) | [LinkedIn](https://www.linkedin.com/in/alexanderduya/)
