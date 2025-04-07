@@ -20,7 +20,6 @@
 ### 🚀 Frameworks & Libraries
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-*Currently Learning!*
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
@@ -41,11 +40,29 @@
 
 ## 🔥 Featured Projects
 
-### 🎥 [Frame.io Video Downloader](https://github.com/AlexanderDuya/frameio-video-downloader)
-Node.js script using Puppeteer to automatically download .mp4 videos from Frame.io links
+### 🎬 React Booking Platform (Professional Project)
+[![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)]()
+[![Agile](https://img.shields.io/badge/Agile-Scrum-brightgreen?style=for-the-badge)]()
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
 
-### 📸 [Full-Page Screenshot Capture](https://github.com/AlexanderDuya/full-page-screenshot)
-Puppeteer tool that captures full-page screenshots, including scroll-triggered animations
+**A client-facing booking system developed during a 12-week Agile internship**:
+- Built with React.js using modern hooks and context API
+- Implemented responsive UI with dynamic form validation
+- Collaborated with stakeholders in Scrum environment (2-week sprints)
+- [View Project](https://github.com/AlexanderDuya/React-CSE-Project)
+
+---
+
+### 🤖 AudioStack Ad Generator (AI Integration)
+[![AI](https://img.shields.io/badge/AI-Integration-FF6F00?style=for-the-badge)]()
+[![API](https://img.shields.io/badge/API-Integration-FF2D20?style=for-the-badge)]()
+[![Automation](https://img.shields.io/badge/Process-Automation-009688?style=for-the-badge)]()
+
+**AI-powered marketing compliance system**:
+- Integrates AudioStack and AdClear APIs for end-to-end ad generation
+- Automates regulatory compliance checks for advertising content
+- Processes natural language product descriptions into compliant ads
+- [View Project](https://github.com/AlexanderDuya/AudioStack_Demo)
 
 ## 🌱 Currently Learning
 - Advanced React Native development
