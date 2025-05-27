@@ -1,10 +1,9 @@
 # 👋 Hey, I'm Alexander Duya!
 
-🚀 Full-Stack Developer | Currently Learning React Native
+🚀 Full-Stack Developer | Currently Learning React Native & TypeScript
 
 🔗 Connect with me:
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexanderDuya)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexanderduya/)
 
 ## 🛠 Tech Stack
