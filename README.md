@@ -69,3 +69,5 @@
 - Clerk authentication
 
 📫 **How to reach me:** [Email](alexduyaconnect@gmail.com) | [LinkedIn](https://www.linkedin.com/in/alexanderduya/)
+
+![](https://komarev.com/ghpvc/?username=AlexanderDuya&color=blueviolet)
